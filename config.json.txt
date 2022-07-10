@@ -1,0 +1,5 @@
+﻿{
+	"ip":"NooPeaseSMP.aternos.me",
+	"port": "42934",
+	"name": "Shubhz"
+}
